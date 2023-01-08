@@ -1,4 +1,4 @@
-# CollegeEntertainment.net
+# novelentertainment.org
 ## Web development plan
 - basic website with info about acts and activities "net the best in..."
 - create CRM
